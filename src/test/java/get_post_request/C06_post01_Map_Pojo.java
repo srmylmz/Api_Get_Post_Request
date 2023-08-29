@@ -1,8 +1,7 @@
-package post_request;
+package get_post_request;
 
 import base_url.Base_Url;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import io.restassured.response.Response;
 import org.junit.Test;
 import pojos.ResponsePojo;

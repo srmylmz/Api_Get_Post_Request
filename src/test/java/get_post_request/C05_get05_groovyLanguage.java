@@ -1,4 +1,4 @@
-package post_request;
+package get_post_request;
 
 import base_url.Base_Url;
 import io.restassured.response.Response;
