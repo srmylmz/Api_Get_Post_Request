@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6042742-cb29-4319-ade1-2d8df63d489e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TiR7qhCaqXLpftHoxSGa8mfg05" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Sırma/IdeaProjects/B151_API",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sırma\Desktop\API_EXAMPLE\src\test\java\post_request" />
+      <recent name="C:\Users\Sırma\Desktop\API_EXAMPLE\src\test\java" />
+      <recent name="C:\Users\Sırma\IdeaProjects\B151_API\src\test\java\pojos" />
+      <recent name="C:\Users\Sırma\IdeaProjects\B151_API\src\test\java\ZDeneme\Denemeler" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base_url" />
+      <recent name="pojos" />
+      <recent name="base_urls" />
+      <recent name="smokeTestHerOkuApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C06_post01_Map_Pojo.test02">
+    <configuration name="C01_get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B151_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_request" />
+      <option name="MAIN_CLASS_NAME" value="post_request.C01_get01" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_get02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B151_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_request" />
+      <option name="MAIN_CLASS_NAME" value="post_request.C02_get02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_get03_HamcrestM_JsonPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B151_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_request" />
+      <option name="MAIN_CLASS_NAME" value="post_request.C03_get03_HamcrestM_JsonPath" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_post01_Map_Pojo.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B151_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_request" />
+      <option name="MAIN_CLASS_NAME" value="post_request.C06_post01_Map_Pojo" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B151_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_request" />
+      <option name="MAIN_CLASS_NAME" value="post_request.Post01" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C06_post01_Map_Pojo.test02" />
+        <item itemvalue="JUnit.C03_get03_HamcrestM_JsonPath" />
+        <item itemvalue="JUnit.C02_get02" />
+        <item itemvalue="JUnit.C01_get01" />
+        <item itemvalue="JUnit.Post01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6042742-cb29-4319-ade1-2d8df63d489e" name="Changes" comment="" />
+      <created>1691523768513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691523768513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../APi_TEKRAR/src/test/java/Test/getRequest/Tekrar06.java</url>
+          <line>48</line>
+          <properties class="TestData.getRequest.Tekrar06">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/odev/C03_odev3.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
