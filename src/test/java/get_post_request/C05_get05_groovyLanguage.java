@@ -33,7 +33,7 @@ public class C05_get05_groovyLanguage extends Base_Url {
 
         assertEquals( 200,response.statusCode());
 
-        List<Integer> pantone=response.jsonPath().getList("data.findAll{it.id>0}.pantone_value");
+        List<Integer> pantone=response.jsonPath().getList("data.findAll{it}.pantone_value");
         System.out.println(pantone);
 
         List<Integer> idList=response.jsonPath().getList("data.findAll{it.id>3}.id");
